@@ -1,0 +1,11 @@
+a, li, h1, form {
+    color: white;
+}
+
+body {
+    height: 400px; /* Высота блока */
+    width: 800px; /* Ширина блока */
+    padding-left: 100px; /* Отступ от текста слева */
+    padding-top: 50px; /* Отступ от текста сверху */
+    background: black;
+}
